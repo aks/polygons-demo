@@ -1,0 +1,6 @@
+This is a demonstration project of ruby class and methods.
+
+polygon.rb -- ruby class defining a class and several subclasses of polygons.
+
+test-polygon.rb -- Minitest test cases of the polygon class and subclasses.
+
